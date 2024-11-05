@@ -4,17 +4,18 @@ body{
     margin: 0px;
     font-family: "Rubik Wet Paint", system-ui;
     margin-bottom: 100px;
-
-
-
 }
-
 .chamada{
     background: rgb(255, 136, 0);
     margin-top: 80px;
     margin-bottom: 80px;
     display: flex;
     justify-content: center;
-
+}
+header{
+    color: white;
+    font-size: 40px;
+    margin-bottom: 3px;
+    padding: 20px;
 
 }
